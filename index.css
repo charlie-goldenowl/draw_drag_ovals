@@ -1,0 +1,8 @@
+body {
+  background-color: ivory;
+  padding: 0px;
+}
+#canvas {
+  border: 1px solid red;
+  cursor: crosshair;
+}
